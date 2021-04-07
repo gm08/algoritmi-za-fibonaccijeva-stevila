@@ -6,7 +6,9 @@ Zbirka algoritmov za generiranje velikih fibonaccijevih števil v Javi in C-ju
 - **fibonacci2.java / fibonacci2.c**<br/>
   rekurzivni algoritem z memoizacijo z navadno tabelo
 - **fibonacci3.java / fibonacci3.c**<br/>
-  rekurzivni algoritem z memoizacijo s hash tabelo
+  rekurzivni algoritem z memoizacijo s hash tabelo<br/>
+  - *fibonacci31.c* - za realizacijo hash tabele se uporablja header file [uthash.h](https://troydhanson.github.io/uthash/)
+  - *fibonacci32.c* - lastna implementacija hash tabele
 - **fibonacci4.java / fibonacci4.c**<br/>
   iterativni algoritem
 - **fibonacci5.java / fibonacci5.c**<br/>
